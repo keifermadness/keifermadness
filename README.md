@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keifermadness
 - 👀 I’m interested in Javascript, and other related libraries
-- 🌱 I’m currently learning Ruby on Rails, Typescript and Css Animations
+- 🌱 I’m currently learning Ruby on Rails, Typescript and CSS Animations
 - 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me keifer@nrdsoafeather.com
 
